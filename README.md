@@ -14,7 +14,7 @@
 
 ---
 
-Eighteen years in training rooms and over a thousand people trained in group dynamics, organizational behaviour and soft skills, for UniCredit Bulbank, Renault Nissan, Schneider Electric and CEZ Bulgaria, across Bulgaria, Europe and the US. Mentoring young people since 2010, before that was a recognised profession in Bulgaria. Sport psychologist since 2026. And, for the last two years, a marketing and digital innovation teacher at SoftUni Buditel.
+Eighteen years in training rooms and over a thousand people trained in group dynamics, organizational behaviour and soft skills, for UniCredit Bulbank, Renault Nissan, Schneider Electric and CEZ Bulgaria, across Bulgaria, Europe and the US. Mentoring young people since 2010, before that was a recognised profession in Bulgaria. Sport psychologist since 2026. And, for the last two years, a teacher of marketing, sales, management, digital innovation and AI for business at SoftUni Buditel.
 
 I'm not a developer. I build with AI because the things I needed for a skater, for a student, for a training room simply didn't exist, and I stopped waiting for someone else to make them. Two of the three apps below started with my daughter asking for something. Everything here is in progress and built in public.
 
@@ -38,7 +38,7 @@ I'm not a developer. I build with AI because the things I needed for a skater, f
 
 **Sport psychology.** Practice since 2026, and the reason IceNotes exists.
 
-**Teaching, for the last two years.** Marketing and digital innovation at SoftUni Buditel, grades 9–11. My students don't do textbook exercises; they work on live client briefs and present to the client at the end: [UWEAR](https://uwear.bg) (licensed children's merchandise) and Детска къща „Монтесори килимчета“.
+**Teaching, for the last two years.** Digital Marketing, Sales Skills, Management Basics, Digital Innovations and AI for Business at SoftUni Buditel, grades 10 to 12. My students don't do textbook exercises; they work on live client briefs and present to the client at the end: [UWEAR](https://uwear.bg) (licensed children's merchandise), Детска къща „Монтесори килимчета“ and [HobbyT.bg](https://hobbyt.bg), a handmade marketplace and maker community, where a team of student interns runs benchmarking, SEO, influencer marketing, content strategy and a UX audit.
 
 ### What I ran
 
@@ -73,7 +73,7 @@ I'm open to conversations about training and group dynamics, mentoring programme
 
 **Треньор по груповодинамичен тренинг и организационно поведение. Ментор от 2010 г. Спортен психолог. От две години и преподавател. Строя инструментите, които всичко това изисква.**
 
-Осемнайсет години в тренинг залата и над 1000 обучени човека по групова динамика, организационно поведение и меки умения, за UniCredit Bulbank, Renault Nissan, Schneider Electric и ЧЕЗ България, в България, Европа и САЩ. Менторирам млади хора от 2010 г., преди това да е разпозната професия у нас. Спортен психолог от 2026 г. И от две години преподавам маркетинг и дигитални иновации в СофтУни БУДИТЕЛ.
+Осемнайсет години в тренинг залата и над 1000 обучени човека по групова динамика, организационно поведение и меки умения, за UniCredit Bulbank, Renault Nissan, Schneider Electric и ЧЕЗ България, в България, Европа и САЩ. Менторирам млади хора от 2010 г., преди това да е разпозната професия у нас. Спортен психолог от 2026 г. И от две години преподавам маркетинг, продажби, мениджмънт, дигитални иновации и AI за бизнеса в СофтУни БУДИТЕЛ.
 
 Не съм програмист. Строя с изкуствен интелект (AI), защото нещата, които трябваха на една фигуристка, на един ученик, на една тренинг група, просто ги нямаше, а на мен ми омръзна да чакам някой друг да ги направи. Две от трите приложения по-долу тръгнаха от това, че дъщеря ми поиска нещо. Всичко тук е в процес и се строи публично.
 
@@ -88,7 +88,7 @@ I'm open to conversations about training and group dynamics, mentoring programme
 - **Тренинг и асесмънт.** Сертифициран треньор и асесор по групова динамика; треньор по организационно поведение от 2006 г. **Над 1000 обучени човека за 18 години.** Теми: комуникативни умения, вземане на решения, управление на проекти, изграждане и развитие на екип, лидерство и мениджмънт, управление на конфликти, преговори, управление на времето, управление на стрес, личностно и организационно развитие. Корпоративни клиенти: UniCredit Bulbank, Renault Nissan, Schneider Electric, ЧЕЗ България.
 - **Менторство от 2010 г.** Моята мярка: поне един предприемач от всеки випуск. Класирания на отбори, които съм менторирала: **3-то място** на първия Defense Tech хакатон в Мюнхен, 2024 г., с екип мои ученици; **3-то място** на HackUPC 2025 в Барселона; на **HackYeah 2025** в Полша две трети места, едно четвърто и едно шесто.
 - **Спортна психология.** Практика от 2026 г. и причината IceNotes да съществува.
-- **Преподаване от две години.** Маркетинг и дигитални иновации в СофтУни БУДИТЕЛ, 9.–11. клас. Учениците работят по реални клиентски задания и презентират пред клиента: [UWEAR](https://uwear.bg) и Детска къща „Монтесори килимчета“.
+- **Преподаване от две години.** Дигитален маркетинг, умения за продажби, основи на мениджмънта, дигитални иновации и AI за бизнеса в СофтУни БУДИТЕЛ, 10., 11. и 12. клас. Учениците работят по реални клиентски задания и презентират пред клиента: [UWEAR](https://uwear.bg), Детска къща „Монтесори килимчета“ и [HobbyT.bg](https://hobbyt.bg), платформа за ръчна изработка и общност на майстори, където екип ученици стажанти прави бенчмаркинг, SEO, инфлуенсър маркетинг, контент стратегия и UX одит.
 
 **Какво съм ръководила**
 
